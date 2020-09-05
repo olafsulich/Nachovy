@@ -1,0 +1,21 @@
+{
+    "name": "nachovy",
+    "displayName": "Nachovy",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nachovy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nachovy-color-theme.json"
+            }
+        ]
+    }
+}
